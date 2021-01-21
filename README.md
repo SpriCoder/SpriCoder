@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - Focus on Spring Boot & Cloud & More
 - More Notes About My Class: [Software-Knowledge](https://github.com/Software-Knowledge)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&show_icons=true&theme=radical&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormbroken&hide=TeX&layout=compact&theme=dark)
