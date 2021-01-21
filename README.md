@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hello,World 👋
 - Studying Software Engineering in NJU
 - Focus on Spring Boot & Cloud
+- More Note About My class: [Software-Knowledge](https://github.com/Software-Knowledge)
 
-![Cpaulyz's github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormbroken&hide=TeX&layout=compact&theme=dark)
