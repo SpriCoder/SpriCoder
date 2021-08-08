@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello 👋
-- Studying Software Engineering in NJU
+- I'am Spricoder, and my name in github is stormbroken, Now studying Software Engineering in NJU
 - Focus on [Spring Boot](https://github.com/stormbroken/Tec-Be/blob/main/Spring%20Boot/Summary-Spring%20Boot%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB.md) & Cloud & More
 - More Notes About My Class: [Software-Knowledge](https://github.com/Software-Knowledge)
 
