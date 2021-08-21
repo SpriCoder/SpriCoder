@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{stormbroken}/count.svg" /></p> 
 <br></div>
 
+<hr>
+
 <!-- GITHUB ACTIVITY GRAPH -->
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken&theme=react-dark)
 
