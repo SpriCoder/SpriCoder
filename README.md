@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-| Github Statistics | My Language |
-| - | - |
-| ![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&theme=dark&show_icons=true) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormbroken&hide=TeX&layout=compact&theme=dark) |
+| Github Statistics                                                                                           | My Language                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&theme=dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormbroken&hide=TeX&layout=compact&theme=dark) |
 
 <!-- START NEW SECTION -->
 <div align="center">
