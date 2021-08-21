@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### Hello 👋
-- I'am Spricoder, and my name in github is stormbroken, Now studying Software Engineering in NJU
-- Focus on [Spring Boot](https://github.com/stormbroken/Tec-Be/blob/main/Spring%20Boot/Summary-Spring%20Boot%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB.md) & Cloud & More
-- More Notes About My Class: [Software-Knowledge](https://github.com/Software-Knowledge)
+- I'am Spricoder, and my name in github is stormbroken, Now studying Software Engineering in NJU.
+- Recently, I focus on [iotdb benchmark](https://github.com/thulab/iotdb-benchmark), [Spring Boot](https://github.com/stormbroken/Tec-Be/blob/main/Spring%20Boot/Summary-Spring%20Boot%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB.md), spring cloud and so on.
+- More Notes About My Class: [SpriCoder-Notes](https://github.com/stormbroken/SpriCoder-Notes)
 
-
+<hr>
 
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
@@ -37,15 +37,14 @@ Here are some ideas to get you started:
 | - | - |
 | ![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&theme=dark&show_icons=true) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormbroken&hide=TeX&layout=compact&theme=dark) |
 
-<!-- START NEW SECTION -->
+<hr>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{stormbroken}/count.svg" /></p> 
-<br></div>
+<br>Welcome!<br></div>
 
 <hr>
 
-<!-- GITHUB ACTIVITY GRAPH -->
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken&theme=react-dark)
 
-  </p>
