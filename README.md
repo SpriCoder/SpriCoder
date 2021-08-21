@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <hr>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><h2 align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{stormbroken}/count.svg" /></p> 
-<br>Welcome!<br></div>
+<br></div>
 
 <hr>
 
