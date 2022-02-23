@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 <hr>
 
-![stormbrokne's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken&theme=react-light)
+![stormbrokne's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken&bg_color=ffffff)
 
