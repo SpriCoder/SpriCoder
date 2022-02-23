@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-![stormbrokne's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken&bg_color=ffffff&color=708090&line=00bfff&point=24292e&area=true&hide_border=true)
+![stormbrokne's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken&bg_color=ffffff&color=708090&line=00bfff&point=24292e&area_color=87cefa&area=true&hide_border=true)
