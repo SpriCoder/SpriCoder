@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stormbroken&theme=radical&margin-w=40&margin-h=40)](https://github.com/stormbroken)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stormbroken&margin-w=40&margin-h=40)](https://github.com/stormbroken)
 
 <hr>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 | Github Statistics                                                                                           | My Language                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&theme=dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormbroken&hide=TeX&layout=compact&theme=dark) |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=stormbroken&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormbroken&hide=TeX&layout=compact) |
 
 <hr>
 
@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 <hr>
 
-![stormbrokne's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken&theme=react-dark)
+![stormbrokne's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormbroken)
 
