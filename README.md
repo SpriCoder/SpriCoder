@@ -1,8 +1,10 @@
 ### Hello 👋
-- I'am Spricoder.
-- Recently, I focus on [iotdb cluster](https://github.com/apache/iotdb)、[iotdb benchmark](https://github.com/thulab/iotdb-benchmark), [Spring Boot](https://github.com/SpriCoder/Tec-Be/blob/main/Spring%20Boot/Summary-Spring%20Boot%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB.md), spring cloud and so on.
-- More Notes About My Class: [SpriCoder-Notes](https://github.com/SpriCoder/SpriCoder-Notes)
-- Welcome to my [blog](https://SpriCoder.github.io/).
+I'm SpriCoder, Postgraduate in Tsinghua University.
+
+- 📖 I'm currently working on [Apache IoTDB](https://github.com/apache/iotdb), focus on Consensus, Metric and so on.
+- 📺 I'm maintaining [IoT Benchmark](https://github.com/thulab/iot-benchmark) at the same time.
+- 💡 I'm interested in Distributed Database Systems.
+- 🌄 Welcome to my [blog](https://SpriCoder.github.io/)
 
 <hr>
 
