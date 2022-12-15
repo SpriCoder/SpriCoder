@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm SpriCoder, Postgraduate in Tsinghua University.
+I'm SpriCoder, Postgraduate in Tsinghua University, Apache IoTDB commiter.
 
 - 📖 I'm currently working on [Apache IoTDB](https://github.com/apache/iotdb), focus on Consensus, Metric and so on.
 - 📺 I'm maintaining [IoT Benchmark](https://github.com/thulab/iot-benchmark) at the same time.
