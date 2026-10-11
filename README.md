@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm **Hongyin Zhang (SpriCoder)**, an **Apache IoTDB PMC Member** and **Apache TsFile Committer**.
+I'm **Hongyin Zhang (SpriCoder)**.
 
 [![Apache IoTDB PMC Member](https://img.shields.io/badge/Apache%20IoTDB-PMC%20Member-D22128?logo=apache)](https://github.com/apache/iotdb)
 [![Apache TsFile Committer](https://img.shields.io/badge/Apache%20TsFile-Committer-D22128?logo=apache)](https://github.com/apache/tsfile)
